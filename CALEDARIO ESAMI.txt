@@ -6,7 +6,7 @@ Basi di Dati          		  8/1/25  | 29/1/25            6         x|✓
 Ricerca Operativa                 10/1/25 | 31/1/25            6      Rimandato 
 Analisi II                        10/1/25 | 31/1/25            9          x
 Elettronica Digitale          	  13/1/25 | 10/2/25            6          ✓
-Ambienti di Programmazione        15/1/25 | 19/2/25            6          
+Ambienti di Programmazione        15/1/25 | 19/2/25            6          x
 Fondamenti di Automatica          22/1/25 | 7/2/25             9          ✓
 Reti di Telecomunicazioni         24/1/25 | 17/2/25            6          x
 ---------------------------------------------------------------------------------------
